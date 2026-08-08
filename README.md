@@ -32,7 +32,7 @@
 
 ## 📫 Contacto
 
-- GitHub: [betra0](https://github.com/betra0)  
+- GitHub: [__DanyCode__](https://github.com/danycode-dev)  
 - Discord: Dani-#6211  
 - Email: tolozadaniel5@gmail.com  
 - Web: [https://danycode.dev/](https://danycode.dev/)
