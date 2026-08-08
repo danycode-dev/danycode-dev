@@ -34,5 +34,5 @@
 
 - GitHub: [__DanyCode__](https://github.com/danycode-dev)  
 - Discord: Dani-#6211  
-- Email: tolozadaniel5@gmail.com  
+- Email: tolozadaniel5@proton.me 
 - Web: [https://danycode.dev/](https://danycode.dev/)
